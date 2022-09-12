@@ -2,5 +2,8 @@
 bin/
 lib/
 pyvenv.cfg
-share
+share/
 .ipynb_checkpoints/
+TFODCourse__NRSourceFiles/
+Tensorflow/models/
+Tensorflow/protoc/
