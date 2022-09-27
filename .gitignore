@@ -9,3 +9,5 @@ Tensorflow/models/
 Tensorflow/protoc/
 project_1/Tensorflow/models/
 project_1/Tensorflow/protoc/
+**/*.zip
+MP_Data__*
